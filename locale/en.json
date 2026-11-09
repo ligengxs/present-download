@@ -1,0 +1,8 @@
+{
+  "meta": {
+    "title": "Presented File Download",
+    "description": "Adds a download button to presented-file delivery cards in the Web GUI."
+  },
+  "download.title": "Download",
+  "download.aria": "Download file"
+}

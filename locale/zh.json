@@ -1,0 +1,8 @@
+{
+  "meta": {
+    "title": "交付文件下载",
+    "description": "在 Web 界面的交付文件卡片上添加下载按钮。"
+  },
+  "download.title": "下载",
+  "download.aria": "下载文件"
+}
